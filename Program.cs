@@ -9,7 +9,7 @@ string pergunta;
 do 
 {
     Console.WriteLine("Faça uma pergunta para o Groot?");
-        Console.Write("Ou se quiser sair digite:"tchau groot"");
+        Console.Write("Ou se quiser sair digite:tchau groot");
             Console.WriteLine();
      pergunta = Console.ReadLine()!;
  
